@@ -103,6 +103,6 @@
 
 
 
-  [1]: https://github-laziji.github.io
+  [1]: https://fzy0728.github.io/#/user/new/main
   [2]: https://github.com/GitHub-Laziji/GitHub-Laziji.github.io
   [3]: https://github.com/GitHub-Laziji/vblog
